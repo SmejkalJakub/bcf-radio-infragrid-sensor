@@ -1,0 +1,4 @@
+assembly:
+  - name: HARDWARIO Infra Grid Module
+  - name: HARDWARIO Core Module
+  - name: HARDWARIO Battery Module

@@ -1,9 +1,11 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
-[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-skeleton/master.svg)](https://travis-ci.org/bigclownlabs/bcf-skeleton)
-[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/releases)
-[![License](https://img.shields.io/github/license/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
+# Firmware for visualizing InfraGrid values in Node-Red Dashboard
+
+[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-infragrid-sensor/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-infragrid-sensor)
+[![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-infragrid-sensor.svg)](https://github.com/bigclownprojects/bcf-radio-infragrid-sensor/releases)
+[![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-infragrid-sensor.svg)](https://github.com/bigclownprojects/bcf-radio-infragrid-sensor/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 This repository contains firmware infragrid heat monitor for [Core Module](https://shop.bigclown.com/core-module).
 
